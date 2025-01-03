@@ -10,5 +10,5 @@ It is a very simple sign pad.
 
 ## Demo
 
-https://sau1606.github.io/Sign-Pad/
+https://sign-pad-olive.vercel.app/
 
